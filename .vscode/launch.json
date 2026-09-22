@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RailwayManagementSystem",
+            "request": "launch",
+            "mainClass": "railway.RailwayManagementSystem",
+            "projectName": "railway-management-project_fb696e54"
+        },
+        {
+            "type": "java",
+            "name": "🚆 Launch Railway Management System",
+            "request": "launch",
+            "mainClass": "railway.RailwayManagementSystem",
+            "projectName": "railway-management-project"
+        },
+        {
+            "type": "java",
+            "name": "🧪 Run DSA Test Suite",
+            "request": "launch",
+            "mainClass": "railway.DSATestSuite",
+            "projectName": "railway-management-project"
+        }
+    ]
+}

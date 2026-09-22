@@ -1,0 +1,21 @@
+# =========================================================================
+# Standard .gitignore for Java & VS Code
+# =========================================================================
+
+# Compiled Java class files
+bin/
+*.class
+
+# Test receipts and temporary artifacts
+receipts/
+*.tmp
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code runtime data (keep settings.json and launch.json, ignore user state)
+.vscode/.browse.c_cpp.db*
+.vscode/*.log
